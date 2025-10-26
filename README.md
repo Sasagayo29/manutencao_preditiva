@@ -1,4 +1,4 @@
-# Projeto de Manutenção Preditiva (PdM) com LSTM e FastAPI
+# Manutenção Preditiva (PdM) com LSTM e FastAPI
 
 ![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow)
