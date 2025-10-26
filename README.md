@@ -159,5 +159,5 @@ O modelo foi avaliado no conjunto de teste (`test_FD001.txt`) e comparado com os
 
 O gráfico de dispersão abaixo mostra a forte correlação entre os valores reais (eixo X) e as previsões do modelo (eixo Y).
 
-![Resultados da Avaliação: RUL Previsto vs. Real](image_492e0c.png)
-*(Substitua este caminho pela localização da sua imagem no repositório)*
+<Figure size 1200x600 with 1 Axes><img width="1005" height="547" alt="image" src="https://github.com/user-attachments/assets/ae8af9a0-d9bf-4728-915e-1c84abc9ebfc" />
+
